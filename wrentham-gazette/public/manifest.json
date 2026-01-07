@@ -1,0 +1,21 @@
+{
+  "name": "The Wrentham Gazette",
+  "short_name": "Wrentham Gazette",
+  "description": "Your source for local news in Wrentham, Massachusetts",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf9f7",
+  "theme_color": "#8b2332",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
